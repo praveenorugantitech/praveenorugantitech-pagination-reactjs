@@ -6,7 +6,7 @@
 
 
 
-[Live Demo](https://praveenorugantitech-pagination.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-pagination-reactjs/)
 
 
 
