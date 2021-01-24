@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-pagination-reactjs/static/css/main.3027ffd1.chunk.css",
+    "main.js": "/praveenorugantitech-pagination-reactjs/static/js/main.6db3f82d.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-pagination-reactjs/static/js/runtime-main.84933841.js",
+    "static/js/2.482a3796.chunk.js": "/praveenorugantitech-pagination-reactjs/static/js/2.482a3796.chunk.js",
+    "index.html": "/praveenorugantitech-pagination-reactjs/index.html",
+    "precache-manifest.a5d503764430bfc8f556eabffc7fe979.js": "/praveenorugantitech-pagination-reactjs/precache-manifest.a5d503764430bfc8f556eabffc7fe979.js",
+    "service-worker.js": "/praveenorugantitech-pagination-reactjs/service-worker.js",
+    "static/js/2.482a3796.chunk.js.LICENSE.txt": "/praveenorugantitech-pagination-reactjs/static/js/2.482a3796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84933841.js",
+    "static/js/2.482a3796.chunk.js",
+    "static/css/main.3027ffd1.chunk.css",
+    "static/js/main.6db3f82d.chunk.js"
+  ]
+}
