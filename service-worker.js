@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/praveenorugantitech-pagination-reactjs/precache-manifest.08601670c7ee7d5a2dbada0812011e00.js"
+  "/praveenorugantitech-pagination-reactjs/precache-manifest.b056e5e1ed717869d7a192040350ead4.js"
 );
 
 self.addEventListener('message', (event) => {
