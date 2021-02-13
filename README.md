@@ -1,4 +1,4 @@
-# GitHub Followers with Pagination developed using React JS with Hooks and GitHub API
+# My GitHub Followers with Pagination developed using React JS with Hooks and GitHub API
 
 ### API
 
